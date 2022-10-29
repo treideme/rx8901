@@ -1,0 +1,5 @@
+*_backups
+*-table
+*-cache
+*-backups
+*.bak
